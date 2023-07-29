@@ -2,4 +2,4 @@
 
 ## About this Project
 Document Management microservice using Laravel v9.52.12 and PHP v8.0.11.
-Make yourself confortable to check this simplefied API DOC out by clicking <a href="https://laravel.com" target="_blank">HERE</a> :D
+Make yourself confortable to check this simplefied API DOC out by clicking <a href="https://github.com/ThiagoMotaIta/Document-Management-backend/blob/main/public/document-management-api-doc.pdf" target="_blank">HERE</a> :D
